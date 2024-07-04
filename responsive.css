@@ -12,8 +12,9 @@
         padding: 0 3.7rem;
     }
     #msg{
-        width: 65vmin;
-        font-size: 15vmin;
+        width: 100%;
+        margin: 0 auto;
+        font-size: 9.35vmin;
     }
     #lets-go{
         font-size: 7vmin;
