@@ -1,0 +1,39 @@
+@media only screen and (min-width: 200px) and (max-width: 592px){
+
+    .page0{
+        background-position: all;
+    }
+    .msg-cont{
+        height: 100vh;
+    }
+    main{
+        display: grid;
+        place-items: center;
+        height: 100vh;    
+    }
+    .container{
+        margin: 3rem;
+    }
+    #msg{
+        width: 80vmin;
+        font-size: 15vmin;
+    }
+    #lets-go{
+        font-size: 8vmin;
+        padding: 1rem 0;
+     
+    }
+    #start-btn{
+        padding: 0.7rem 1.4rem; 
+        font-size: 1.8rem;
+        width: 50vmin;
+    }
+    #restart-btn{
+        margin: 1rem 0;
+        width: 50vmin;
+    }
+    #exit-btn{
+        margin: 0;
+        width: 50vmin;
+    }
+}
