@@ -9,26 +9,27 @@
     .msg-cont{
         justify-content: center;
         gap: 4rem;
+        padding: 0 3.7rem;
     }
     #msg{
-        width: 80vmin;
+        width: 65vmin;
         font-size: 15vmin;
     }
     #lets-go{
-        font-size: 8vmin;
+        font-size: 7vmin;
         padding: 1rem 0;
      
     }
     #start-btn{
         padding: 1.4rem; 
-        font-size: 2rem;
-        width: 40vmin;
+        font-size: 1.8rem;
+        width: 50vmin;
         margin: 0.75rem;
     }
     #restart-btn, #exit-btn{
-        width: 28vmin;
-        margin: 0 0.5rem;
-        padding: 1.4rem; 
-        font-size: 2rem;
+        width: 50vmin;
+        margin: 0.5rem;
+        padding: 1.3rem;
+        font-size: 1.8rem;
     }
 }
