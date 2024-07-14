@@ -44,11 +44,7 @@ let startBox = () => {
         body.classList.remove('body');
         page0 = true;
     }
-    // else{
-    //     body.classList.add('body'); // add blue
-    //     body.classList.remove('page0');
-    //     page0 = false;
-    // }
+
     msgCont.classList.add('hide');
 };
 
@@ -88,7 +84,7 @@ let disableBoxes = () => {
 };
 
 let showWinner = (winner) => {
-    msg.innerText = `Congratulations! Winner is the "Player-${winner}"`;
+    msg.innerText = `Congratulations! for Victory`;
     msgCont.classList.remove('hide');
     disableBoxes();
 };

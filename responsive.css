@@ -1,4 +1,4 @@
-@media only screen and (min-width: 200px) and (max-width: 592px){
+@media only screen and (max-width: 592px){
 
     .page0{
         background-position: all;
@@ -12,9 +12,8 @@
         padding: 0 3.7rem;
     }
     #msg{
-        width: 100%;
         margin: 0 auto;
-        font-size: 9.35vmin;
+        font-size: 10vmin;
     }
     #lets-go{
         font-size: 7vmin;
@@ -22,15 +21,15 @@
      
     }
     #start-btn{
-        padding: 1.4rem; 
-        font-size: 1.8rem;
-        width: 50vmin;
+        padding: 1rem; 
+        font-size: 1.5rem;
+        width: 40vmin;
         margin: 0.75rem;
     }
     #restart-btn, #exit-btn{
         width: 50vmin;
         margin: 0.5rem;
-        padding: 1.3rem;
-        font-size: 1.8rem;
+        padding: 1rem;
+        font-size: 1.5rem;
     }
 }
